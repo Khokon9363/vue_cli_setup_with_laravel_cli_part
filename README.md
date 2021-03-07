@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Install and setup axios
+see https://dev.to/ljnce/use-axios-api-with-vue-cli-54i2
